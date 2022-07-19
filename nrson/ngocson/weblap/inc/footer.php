@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div class="copy_right">
-				<p>Design by Trịnh Đức Giang DHTI12A1NĐ</p>
+				<p>Design by Ngoc Son</p>
 		   </div>
      </div>
     </div>

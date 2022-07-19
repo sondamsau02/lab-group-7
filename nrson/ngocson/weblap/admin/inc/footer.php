@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Design by Trịnh Đức Giang DHTI12A1NĐ.
+         &copy; Design by ngoc son PBIT1702
         </p>
     </div>
 </body>

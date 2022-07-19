@@ -49,8 +49,8 @@
                     <img src="https://i.pinimg.com/564x/a2/d0/11/a2d011a54b50960d774d05211b6be575.jpg" alt="Logo" />
 				</div>
 				<div class="floatleft middle">
-					<h1>Shop Đức Giang</h1>
-					<p>www.laptopducgiang.com</p>
+					<h1>Shop ngoc son</h1>
+					<p>www.ngocson.com</p>
 				</div>
                 <div class="floatright">
                     <div class="floatleft">
